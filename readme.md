@@ -1,5 +1,3 @@
-# README: Financial Document & Stock Analyzer
-
 ## Overview
 The **Gemini-Stock-Analysis** is a powerful Streamlit-based application that allows users to upload financial documents, perform detailed analyses using the Gemini API, and search for recent news about a company's stock. With integration into Google Drive and Docs, the app provides seamless saving and sharing capabilities for analyzed content.
 
